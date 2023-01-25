@@ -1,5 +1,4 @@
-# Segment
-# Shopping Customers
+# Segment Shopping Customers
 
 ## Problem Statement:
 understand the Target Customers for the marketing team to plan a strategy.
@@ -11,17 +10,14 @@ income,age and the mall shopping score.
 He wants the ideal number of groups with a label for each.
 
 
-# Objective 
-# Market
-# Segmentation
+# Objective  Market Segmentation
 
 Divide your mall target market into approachable groups.
 Create subsets of a market based on demographics behavioral criteria to 
 better understand the target for marketing activities.
 
 
-# The
-# Approach
+# The Approach
 
 1. Perform some quick EDA(Exploratory Data Analysis)
 
